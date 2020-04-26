@@ -2,8 +2,6 @@
 
 A React Application for live status of CORONA !
 
-<a href="https://imgflip.com/gif/3y7pn0">via Imgflip</a>
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
