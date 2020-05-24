@@ -2,6 +2,10 @@
 
 A React Application for live status of CORONA !
 
+<img src="https://github.com/asbaravkar/COVID-19-Tracker-React/blob/master/src/images/head.PNG" width="600" height="300">
+<img src="https://github.com/asbaravkar/COVID-19-Tracker-React/blob/master/src/images/chart.PNG" width="600" height="300">
+<img src="https://github.com/asbaravkar/COVID-19-Tracker-React/blob/master/src/images/bar.PNG" width="600" height="300">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
